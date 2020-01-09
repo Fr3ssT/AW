@@ -9,6 +9,7 @@ sudo fuser -vki /var/lib/dkpg/lock
 
 ![Imagen](/)
 
+### Firewall 
 $ sudo ufw app list
 
 ### Procesos
