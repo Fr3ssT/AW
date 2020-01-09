@@ -11,6 +11,7 @@ sudo fuser -vki /var/lib/dkpg/lock
 
 $ sudo ufw app list
 
+### Iniciar el servicio de Apache
 $ sudo systemctl start apache2
 
 $ sudo systemctl status apache2
