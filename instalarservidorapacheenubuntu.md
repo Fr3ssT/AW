@@ -7,6 +7,8 @@ $ sudo apt install apache2
 
 sudo fuser -vki /var/lib/dkpg/lock
 
+![Imagen](/
+
 $ sudo ufw app list
 
 $ sudo systemctl start apache2
