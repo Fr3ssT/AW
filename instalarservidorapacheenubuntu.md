@@ -41,4 +41,8 @@ cd /etc/apache2/sites-available
 
 nano example.com.conf
 
+### DENTRO DE EXAMPLE
+
+creamos ServerName example.com y ServerAlias www.example.com y modificamos DocumentRoot y ponemos /va/www/example.com/public_html
+
 
