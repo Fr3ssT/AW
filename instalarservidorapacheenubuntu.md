@@ -43,6 +43,6 @@ nano example.com.conf
 
 ### DENTRO DE EXAMPLE
 
-creamos ServerName example.com y ServerAlias www.example.com y modificamos DocumentRoot y ponemos /va/www/example.com/public_html
+creamos ServerName example.com y ServerAlias www.example.com y modificamos DocumentRoot y ponemos /var/www/example.com/public_html y hacemos lo mismo en test.com.conf
 
 
